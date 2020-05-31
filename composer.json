@@ -1,5 +1,5 @@
 {
-    "name": "xigen/module-consolelock",
+    "name": "dominicwatts/consolelock",
     "description": "Lock console command",
     "type": "magento2-module",
     "license": "proprietary",
